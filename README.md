@@ -6,9 +6,9 @@ I am passionate backend Java developer
 
 * 🌍  I'm based in Denver 
 * ✉️  You can contact me at [violetta.java@gmail.com](mailto:violetta.java@gmail.com) 
-* 🧠  I'm learning Spring 
+* 🧠  I've done Spring Boot Projects in 2 different domains 
 * 🤝  I'm open to collaborating on Projects 
-* ⚡   I am fitness enthusiast
+* ⚡   Lifelong learner
 
 <a href="https://www.github.com/violettaqueen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/violettaqueen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
